@@ -1,2 +1,2 @@
-# Lists
-A collection of eligible address lists for different blockchain events, rewards, and badge distributions.
+This repository is maintained by Hasan Mondal.
+Minor updates and improvements have been added.
